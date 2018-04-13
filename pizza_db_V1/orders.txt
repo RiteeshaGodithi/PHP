@@ -1,0 +1,44 @@
+ you ordered 5 pizza and size Large type of pizza is Veggi
+Toppings are 
+Broccoli
+Spinach
+Extra Cheese
+Bacon
+ you ordered 1 pizza and size Small type of pizza is meats
+Toppings are 
+Broccoli
+Extra Cheese
+ you ordered 100 pizza and size Large type of pizza is meats
+Toppings are 
+Spinach
+ you ordered 7 pizza and size Small type of pizza is 
+Toppings are 
+Broccoli
+Spinach
+Extra Cheese
+Bacon
+ you ordered 7 pizza and size Small type of pizza is Veggi
+Toppings are 
+Broccoli
+Spinach
+Extra Cheese
+Bacon
+ you ordered 1 pizza and size Large type of pizza is Regular
+Toppings are 
+Extra Cheese
+Broccoli
+ you ordered 1 pizza and size Large type of pizza is Veggi
+Toppings are 
+Extra Cheese
+Broccoli
+Spinach
+Bacon
+ you ordered 1 pizza and size Medium type of pizza is Veggi with total cost: 8.99
+Toppings are 
+Extra Cheese
+Broccoli
+Spinach
+Bacon
+ you ordered 1 pizza and size Small type of pizza is Veggi with total cost: 7.98
+Toppings are 
+Extra Cheese

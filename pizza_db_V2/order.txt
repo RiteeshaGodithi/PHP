@@ -1,0 +1,2 @@
+ you ordered 1 pizza and size Large type of pizza is Regular
+Toppings are 

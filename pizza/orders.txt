@@ -1,0 +1,10 @@
+You ordered 1 pizza and size Large type of pizza is Regular
+Toppings are: 
+Extra Cheese
+Broccoli
+Total Cost $14.97
+You ordered 1 pizza and size Medium type of pizza is Meats
+Toppings are: 
+Broccoli
+Bacon
+Total Cost $13.96

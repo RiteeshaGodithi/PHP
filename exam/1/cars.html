@@ -1,0 +1,60 @@
+<html>
+<body>
+<form id="seller_used_form" action="addcars.php" method="post">
+
+<h1>Add Car:</H1>
+<table>
+<tr>
+             <th>Maker</th>
+             <td><input type="text" name="maker" value="" />
+			  </td>
+</tr>
+<tr>
+             <th>Model</th>
+             <td><input type="text" name="model" value="" />
+			  </td>
+</tr>
+<tr>
+             <th>Miles per Gallon</th>
+             <td><input type="text" name="mpg" value="" />
+			  </td>
+</tr>
+
+<tr>
+             <th>Price Range</th>
+             <td><input type="text" name="price" value="" /></td>
+    	   </tr>
+
+		   <tr>
+             <th>Miles Within</th>
+             <td><select name = "miles">
+               <option value = "1">Select Miles Within</option>
+			   <option value = "10">10</option>
+               <option value = "20">20</option>
+               <option value = "50">50</option>
+               <option value = "100">100</option>
+			   <option value = "200">200</option>
+               <option value = "500">500</option>
+               <option value = "1000">1000</option>
+               <option value = "2000">2000</option>
+			   
+			 </td>
+			 			 
+    	   </tr>
+<tr>
+			 <th>Type</th>
+			 <td><select name = "type">
+               <option value = "Used">Used</option>
+			   <option value = "New">New</option>
+</td>
+</tr>
+
+<tr><td></td>
+<td><input type="submit" value="Submit" style="width: 70px; height: 30px"/>
+</tr>
+<tr><td><html>Search cars <a href="searchcar.html" />here</a></html></td></tr>
+</table>
+</fieldset>
+</form>
+</body>
+</html>

@@ -1,0 +1,66 @@
+You ordered 10 pizza and size is Large and type of pizza is Veggie
+Topping are 
+Spinach
+Bacon
+Your total cost for order is $ 179.6.
+You ordered 1 pizza and size is Large and type of pizza is Meats
+Topping are 
+Extra Cheese
+Broccoli
+Your total cost for order is $ 16.97.
+You ordered 20 pizza and size is Medium and type of pizza is Veggie
+Topping are 
+Broccoli
+Spinach
+Your total cost for order is $ 259.2.
+You ordered 15 pizza and size is Medium and type of pizza is Meats
+Topping are 
+Extra Cheese
+Broccoli
+Spinach
+Bacon
+Your total cost for order is $ 239.25.
+You ordered 50 pizza and size is Medium and type of pizza is Meats
+Topping are 
+Spinach
+Your total cost for order is $ 648.5.
+You ordered 16 pizza and size is Small and type of pizza is Regular
+Topping  
+Broccoli
+Bacon
+Your total cost for order is $ 143.52.
+You ordered 18 pizza and size is Large and type of pizza is Veggie
+Topping are 
+Extra Cheese
+Bacon
+Your total cost for order is $ 305.46.
+You ordered 20 pizza and size is Small and type of pizza is Regular
+Topping are 
+Broccoli
+Bacon
+Your total cost for order is $ 179.4.
+You ordered 1 pizza and size is Large and type of pizza is Regular
+Topping are 
+Extra Cheese
+Spinach
+Your total cost for order is $ 100.25.
+You ordered 1 pizza and size is Large and type of pizza is Regular
+Topping are 
+Extra Cheese
+Spinach
+Your total cost for order is $ 99.38.
+You ordered 1 pizza and size is Large and type of pizza is Regular
+Topping are 
+Extra Cheese
+Spinach
+Your total cost for order is $ 13.98.
+You ordered 1 pizza and size is Large and type of pizza is Regular
+Selected Toppings are 
+Extra Cheese
+Spinach
+Your total cost for order is $ 13.98.
+You ordered 1 pizza and size is Large and type of pizza is Regular
+Selected Toppings are: 
+Extra Cheese
+Spinach
+Your total cost for order is $ 25.58

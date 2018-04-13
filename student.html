@@ -1,0 +1,30 @@
+<html>
+<head>
+	<title>Student Information</title>
+	<h1 align="center">Student Information</h1>
+</head>
+<body>
+	<form enctype="multipart/form-data" action="studata.php" name="student" method="post">
+		<table align="center">
+			<tr><td>First Name:</td><td><input type="text" name="fname" value="" /></td></tr>
+			<tr><td>Last Name:</td><td><input type="text" name="lname" value="" /></td></tr>
+			<tr><td>Email:</td><td><input type="text" name="email" value="" /></td></tr>
+			<tr><td>			
+			<label for="file">Filename:</label></td>
+			<td><input type="file" name="myfile" id="file"></td></tr>
+			<table align="center"><tr><td>
+	<input type="submit" name="sub" value="Save" align="center"/></td></tr.
+	</table>
+	
+		</table>
+	</form>
+	<table align="center"><tr><td>
+	<input type="submit" name="view" value="View Student Records" onClick="info()" align="center"/></td></tr.
+	</table>
+	<script>
+	function info(){
+	window.location.href='stuinfo.php';
+	}
+	</script>
+</body>
+</html>

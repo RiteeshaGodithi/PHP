@@ -1,0 +1,26 @@
+<html>
+<?php
+session_unset(); 
+session_destroy(); 
+?>
+<head>
+	<title>home</title>
+</head>
+<table >
+	<tr>
+		<td width="30%"><img src="logo.jpg" alt="logo" /></td><td width="30%">
+		<h1/> Joe's Pizza </h1></td>
+		<td width="30%">
+		<form id="login_form" action="validateUser.php" method="post" >
+			username: <input type="text" name="u_name" size="20" /><br />
+			password: <input type="password" name="password" size="20" /><br />
+			<br />
+			<a href="register.php" />Register</a> &nbsp; <input type="submit" name="login" value="login" />
+		</form></td>
+	</tr>
+</table>
+<hr/>
+<body>
+<a href="order.php" /><img src="pizza.jpg" alt="pizza" align="center" width="60%" height="60%" /> </a>
+</body>
+</html>

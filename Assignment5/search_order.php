@@ -28,3 +28,4 @@ $result = @mysqli_query($db, $q) Or die('<p>Unable to execute the query</p><p>Er
  
 mysqli_close($db);
 
+?>

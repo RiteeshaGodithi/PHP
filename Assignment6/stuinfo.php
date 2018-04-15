@@ -17,7 +17,7 @@ $result = @mysqli_query($db, $q) Or die('<p>Unable to execute the query</p><p>Er
 	}while($row=@mysqli_fetch_array($result));
   echo'</table>';	
  }else
-	 echo' you do not have any orders';
+	 echo' you do not have any records';
  
 mysqli_close($db);
 
